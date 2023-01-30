@@ -1,0 +1,257 @@
+*{
+    font-family:ProximaNova,arial,Helvetica Neue,sans-serif;
+}
+
+.body{
+    font-family:  ProximaNova,arial,Helvetica Neue,sans-serif;
+    margin: 0px;
+}
+.swigg{
+    width: 251px;
+    margin-left: 60px;
+    margin-top: 42px;
+    position:absolute;
+    
+}
+.btn-login {
+    margin-left:560px;
+    margin-top:72px;
+    position: absolute;
+    font-size: 17px;
+    background: white;
+    border: white;
+    font-weight: 700;
+}
+.btn2{
+    margin-left: 650px;
+    margin-top: 62px;
+    color: rgb(255, 255, 255);
+    background-color: black;
+    height: 47px;
+    width: 115px;
+    position: absolute;
+}
+.hun{
+    position: absolute;
+    margin-top: 187px;
+    margin-left: 88px;
+    font-weight: 700;
+    font-size: 56px;
+    font-family:ProximaNova,arial,Helvetica Neue,sans-serif;
+}
+.ord{
+    position: absolute;
+    font-size: 28px;
+    margin-left: 80px;
+    margin-top: 260px;
+    color: gray;
+}
+.loc{
+    height: 62px;
+    width: 152px;
+    position: absolute;
+    margin-top: 337px;
+    margin-left: 75px;
+    width: 660px;
+   
+    position: absolute;
+    margin-top: 336px;
+    height: 58px;
+    font-size: 19px;
+    font-weight: 700;
+    border-color:#fc8019;
+}
+.but{
+    position: absolute;
+    margin-top: 358px;
+    margin-left: 590px;
+    background-color: #fc8019;
+    font-weight: 800;
+    width: 170px;
+    height: 63px;
+    margin-top: 336px;
+    color: white;
+    font-size: large;
+    border-color: #fc8
+
+}
+.loca{
+    position: absolute;
+    margin-top: 357px;
+    margin-left: 499px;
+    
+}
+.pop{
+    font-family:ProximaNova,arial,Helvetica Neue,sans-serif;
+    margin-left: 78px;
+    margin-top: 436px;
+    position: absolute;
+    font-size: 18px;
+    color: gray;
+}
+.sp{
+color: black;
+}
+.place{
+    position: absolute;
+    margin-top: 479px;
+    margin-left: 75px;
+    font-size: 19px;
+    color: grey;
+    font-family:ProximaNova,arial,Helvetica Neue,sans-serif;
+}
+.imag{
+    margin-top: -15px;
+    width: 691px;
+    margin-left: 800px;
+}
+.back{
+    width: 1499px;
+    height: 425px;
+    background-color: #2b1e16;
+    margin-top: -5px;
+    margin-left: -8px; 
+}
+.img1{
+    width: 120px;
+    margin-left: 163px;
+    position: absolute;
+    margin-top: 3px;
+}
+.img2{
+margin-left: 663px;
+margin-top: 5px;
+}
+.img3{
+    margin-left: 1180px;
+    margin-top: 16px;
+    width: 137px;
+}
+.no{
+    color: white;
+    font-size: 22px;
+    font-weight: bold;
+    margin-top: 278px;
+    position: absolute;
+    margin-left: 134px;
+}
+.n1{
+    margin-left: 621px   
+}
+.n2{
+    margin-left: 1130px
+}
+.para{
+    color: #e0cbc1;
+    position: absolute;
+    margin-top: 312px;
+    margin-left: 104px;
+    font-size: 16px
+}
+.para1{
+    margin-left: 591px;
+}
+.para2{
+    margin-left: 1113px;
+}
+.rest{
+    background-color: white;
+    width: 100%;
+    height: 446px;
+}
+.pock{
+    font-size: 42px;
+    font-weight: bold;
+    margin-top: 157px;
+    margin-left: 74px;
+}
+.app{
+    position:absolute;
+    font-size: 20px;
+    margin-left: 78px;
+    margin-top: -15px;
+   color:#7e808c ; 
+}
+.imap1{
+    height: 555px;
+    margin-left: 634px;
+    margin-top: -295px;
+}
+.imap2{
+    position: absolute;
+    width: 421px;
+    margin-top: -228px
+}
+.white{
+    width: 1527px;
+    height: 488px;
+    background-color: black;
+    margin-left: -36px; 
+ }
+.play{
+    margin-left: -1015px;
+    position: absolute;
+    width: 203px;
+    margin-top: 115px;
+}
+.apple{
+    width: 203px;
+    margin-top: 115px;
+    position: absolute;
+    margin-left: -793px;
+}
+.age1{
+    margin-left: 1219px;
+    width: 228px;
+    margin-top: 87px;
+}
+.play2{
+    margin-top: 25px;
+}
+.con1{
+    color: gray;
+    margin-left: 112px;
+    margin-top: -190px;
+    font-weight: 700;
+    font-size: 17px;
+    position: absolute;
+}
+.con2{
+    margin-left: 446px;
+}
+.con3{
+    margin-left: 787px;
+}
+.ab1{
+    color: white;
+    margin-left: 116px;
+    margin-top: -138px;
+    font-size: 18px;
+}
+.ab2{
+    margin-top: 20px;
+}
+.ab3{
+    margin-top: 20px;
+}
+.hel1{
+    color: white;
+    font-size: 18px;
+    margin-left: 446px;
+    margin-top: -368px;
+}
+.hel2{
+color: white;
+margin-top: 20px;
+margin-left: 446px;
+}
+.tem1{
+    color: white;
+    font-size: 18px;
+    margin-top: -121px;
+    margin-left: 786px;
+}
+.tem2{
+    margin-top: 1px;
+}
+ 
